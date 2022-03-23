@@ -1,5 +1,4 @@
-<?php
-echo '{"status": "true",
+{"status": "true",
 "count": "2",
 "app_open": "ca-app-pub-3940256099942544/3419835294",
 "fb_native1": "NULL",
@@ -16,6 +15,4 @@ echo '{"status": "true",
 "button_text": "Start Tv Now",
 "json_link": "https://raw.githubusercontent.com/babita88667/temp1/main/cadlist.json"
     
-}';
-
-?>
+}
