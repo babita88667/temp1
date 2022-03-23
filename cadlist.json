@@ -1,0 +1,45 @@
+[{
+        "name": "Aaj Tak",
+        "logo": "https://i.imgur.com/x1Y2P21.png",
+        "url": "https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8",
+        "categories": [{
+            "name": "News",
+            "slug": "news"
+        }],
+        "countries": [{
+            "name": "India",
+            "code": "IN"
+        }],
+        "languages": [{
+            "name": "Hindi",
+            "code": "hin"
+        }],
+        "tvg": {
+            "id": "AajTak.in",
+            "name": "Aaj Tak",
+            "url": ""
+        }
+    },
+    {
+        "name": "ABP Hindi",
+        "logo": "https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png",
+        "url": "https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8",
+        "categories": [{
+            "name": "News",
+            "slug": "news"
+        }],
+        "countries": [{
+            "name": "India",
+            "code": "IN"
+        }],
+        "languages": [{
+            "name": "English",
+            "code": "eng"
+        }],
+        "tvg": {
+            "id": "ABPHindi.in",
+            "name": "ABP Hindi",
+            "url": ""
+        }
+    }
+]
