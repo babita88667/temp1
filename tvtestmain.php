@@ -14,7 +14,7 @@ echo '{"status": "true",
 "gg_inter2": "ca-app-pub-3940256099942544/1033173712",
 "tv_status": "two",
 "button_text": "Start Tv Now",
-"json_link": "https://8747.000webhostapp.com/userapi/channels.json"
+"json_link": "https://raw.githubusercontent.com/babita88667/temp1/main/cadlist.json"
     
 }';
 
