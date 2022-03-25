@@ -12,8 +12,8 @@
     "fb_inter2": "/21939239661/apl/erelapl/inapp/interstitial",
     "gg_inter1": "ca-app-pub-3940256099942544/1033173712",
     "gg_inter2": "ca-app-pub-3940256099942544/1033173712",
-    "tv_status": "one",
-    "button_text": "Add Sample Channel List",
+    "tv_status": "zero",
+    "button_text": "Load Sample Channel List",
     "json_link": "https://raw.githubusercontent.com/babita88667/temp1/main/cadlist.json"
 
 }
